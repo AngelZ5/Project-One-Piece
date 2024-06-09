@@ -16,7 +16,7 @@ This is an interactive project showcasing popular characters from the anime "One
 
 ## Usage
 
-To use this project, simply open the `index.html` file in your web browser.
+To use this project, simply open the `https://project-one-piece-nine.vercel.app` file in your web browser.
 
 ## Credits
 
